@@ -1,4 +1,4 @@
-# Customer Segmentation Project
+# ShopperSegmentation Project
 
 ## Project Overview
 This project performs **customer segmentation** on an e-commerce dataset containing purchase records of approximately 4,000 customers over one year. The goal is to analyze customer behavior, group similar customers, and provide actionable insights for marketing, retention, and sales optimization.
